@@ -8,3 +8,11 @@ body,
 html {
   height: 100%;
 }
+
+.info.legend {
+  background: white; /* Background color */
+  padding: 10px; /* Padding around the content */
+  border: 2px solid #ccc; /* Border around the box */
+  border-radius: 5px; /* Rounded corners */
+  box-shadow: 0 0 5px rgba(0,0,0,0.5); /* Optional shadow for depth */
+}
