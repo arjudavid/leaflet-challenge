@@ -1,12 +1,15 @@
 # leaflet-challenge
 
-Instructions
+Instructions:
+
 The instructions for this activity are broken into two parts:
 
-Part 1: Create the Earthquake Visualization
-Part 2: Gather and Plot More Data (Optional)
+- Part 1: Create the Earthquake Visualization
+- Part 2: Gather and Plot More Data (Optional)
 
-Part 1: Create the Earthquake Visualization
+---
+
+## Part 1: Create the Earthquake Visualization
 
 ![image](https://github.com/user-attachments/assets/b5f00203-2b11-40af-a5dd-121f61ac9ed2)
 
@@ -32,7 +35,10 @@ The popups provide additional information about the earthquake like the magnitud
 
 The visualization should look something like the preceding map.
 
-Part 2: Gather and Plot More Data (Optional)
+---
+
+## Part 2: Gather and Plot More Data 
+
 Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplates.
 
 This part was completely optional; and it was a nice challenge to complete by learning more about Java, HTML's, and the use of CSS's on them.
@@ -45,10 +51,11 @@ Performed the following tasks:
 
 Plot the tectonic plates dataset on the map in addition to the earthquakes.
 
-Add other base maps to choose from.
+Added other base maps to choose from.
 
 Put each dataset into separate overlays that can be turned on and off independently.
 
-Add layer controls to your map.
+Added layer controls to your map.
 
-The initial code was provided by edX Boot Camps LLC and the code was written by David Ruvalcaba with assistance of Xpert Learning.
+> [!NOTE]
+> The initial code was provided by edX Boot Camps LLC and the code was written by David Ruvalcaba with assistance of Xpert Learning.
